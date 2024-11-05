@@ -24,4 +24,12 @@ The data set for sales and customer subscription were given through the tutors o
   2. Analysis and Report Summary Generation
   3. Visualization of the report through Pivot tables
 - SQL
+  Manipulation and Updating of records are done here.
+- Power Bi
+  1. Data Connection and Transformation (PowerQuery)
+  2. Data Modelling
+  3. Data Visualiazation
+  4. Analytics Features
+- Github
+  For Documentation of the project progress 
 
