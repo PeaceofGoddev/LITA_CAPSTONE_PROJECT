@@ -46,5 +46,9 @@ Some of the questions answered here are as follows:
 3. what subscription type is the most engaged and from which region and date of such subscription?
 4. What is the proportion of cancelled transaction to successful transaction?
 
+
+## Data Analysis
+This is the portion where all the insights gotten through excel, sql and powerbi are added. The visualization based on the insight.
+
   
 
