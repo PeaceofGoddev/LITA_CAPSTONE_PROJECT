@@ -49,6 +49,10 @@ Some of the questions answered here are as follows:
 
 ## Data Analysis
 This is the portion where all the insights gotten through excel, sql and powerbi are added. The visualization based on the insight.
+![Customer sub1](https://github.com/user-attachments/assets/cea10b9a-9132-445b-8072-98303e6e15d4)
+![customer sub2](https://github.com/user-attachments/assets/f42b3ef8-3802-40af-964d-6f44c9280f04)
+![Uploading sales1.PNG…]()
 
-  
+  ![Uploading sales2.PNG…]()
+
 
