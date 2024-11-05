@@ -31,5 +31,9 @@ The data set for sales and customer subscription were given through the tutors o
   3. Data Visualiazation
   4. Analytics Features
 - Github
-  For Documentation of the project progress 
+  For Documentation of the project progress
+
+  ## Data Cleaning and Preparation
+  -Data was downloaded from LMS
+  - Removing all the duplicated records
 
