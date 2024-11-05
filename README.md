@@ -23,4 +23,5 @@ The data set for sales and customer subscription were given through the tutors o
   i. Data Cleaning such as removing duplicate records
   ii. Analysis and Report Summary Generation
   iii. Visualization of the report through Pivot tables
+- SQL
 
