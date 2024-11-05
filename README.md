@@ -20,8 +20,8 @@ The data set for sales and customer subscription were given through the tutors o
 
 ## Tool Used
 - Microsoft Excel.
-  i. Data Cleaning such as removing duplicate records
-  ii. Analysis and Report Summary Generation
-  iii. Visualization of the report through Pivot tables
+  1. Data Cleaning such as removing duplicate records
+  2. Analysis and Report Summary Generation
+  3. Visualization of the report through Pivot tables
 - SQL
 
