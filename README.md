@@ -36,4 +36,15 @@ The data set for sales and customer subscription were given through the tutors o
   ## Data Cleaning and Preparation
   - Data was downloaded from LMS
   - Removing all the duplicated records
+  - Data Cleaning 
+ 
+  ## Exploratory Data Analysis
+Exploratory Data Analysis (EDA) is an initial step in data analysis that helps understand the underlying patterns, relationships, and characteristics of the data. The goal is to summarize key aspects of the data and discover insights that inform further analysis or model building.
+Some of the questions answered here are as follows:
+1. Which product has the highest sales and the sales is from which region?
+2. Which product has the lowest sales and the sales is from which region?
+3. what subscription type is the most engaged and from which region and date of such subscription?
+4. What is the proportion of cancelled transaction to successful transaction?
+
+  
 
