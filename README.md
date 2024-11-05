@@ -4,3 +4,5 @@ This is the summary of my 12 weeks learning path in LITA.
 
 
 ## Table of Content
+## Project OVerview
+The goal of this project is to analyze and understand sales of some products and customer subscription pattern to support business decisions and enhance customer retention. By examining key sales metrics and customer behavior, the project will identify trends, forecast future sales, and optimize subscription offerings. Additionally, the project aims to create a unified database of subscription and product purchase.
