@@ -56,3 +56,7 @@ This is the portion where all the insights gotten through excel, sql and powerbi
   ![Uploading sales2.PNG…]()
 
 
+## DATA Visualization
+
+![SALE ANALYSIS](https://github.com/user-attachments/assets/de6b68eb-c05a-49ca-a988-66f37152528d)
+![CUSTOMER SUB ANALYSIS](https://github.com/user-attachments/assets/04c0f2b1-4564-45ff-a0e1-8c71f91f431c)
