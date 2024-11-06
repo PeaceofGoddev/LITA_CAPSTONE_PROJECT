@@ -53,7 +53,9 @@ This is the portion where all the insights gotten through excel, sql and powerbi
 ![Customer sub1](https://github.com/user-attachments/assets/cea10b9a-9132-445b-8072-98303e6e15d4)
 ![customer sub2](https://github.com/user-attachments/assets/f42b3ef8-3802-40af-964d-6f44c9280f04)
 
+![sales1](https://github.com/user-attachments/assets/6df57384-20d4-461a-8f86-59ba0347de1e)
 
+![sales2](https://github.com/user-attachments/assets/50fa5fb6-d286-489c-978c-5375b1748960)
 
 
 
