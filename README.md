@@ -5,11 +5,11 @@ This is the summary of my 12 weeks learning path in LITA.
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Data Source](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#data-source)
-- [Tools Used](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#tool-used)
-- [Data Cleaning and Preparation](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#exploratory-data-analysis)
-- [Data Analysis](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#data-analysis)
+- [Data Source](#data-source)
+- [Tools Used](#tool-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 
 
 ## Project OVerview
