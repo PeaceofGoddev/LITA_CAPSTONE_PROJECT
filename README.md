@@ -4,7 +4,7 @@ This is the summary of my 12 weeks learning path in LITA.
 
 
 ## Table of Content
-- [Project Overview](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/tree/main?tab=readme-ov-file#project-overview)
+- [Project Overview](#project-overview)
 - [Data Source](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#data-source)
 - [Tools Used](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#tool-used)
 - [Data Cleaning and Preparation](https://github.com/PeaceofGoddev/LITA_CAPSTONE_PROJECT/blob/main/README.md#data-cleaning-and-preparation)
@@ -51,9 +51,9 @@ Some of the questions answered here are as follows:
 This is the portion where all the insights gotten through excel, sql and powerbi are added. The visualization based on the insight.
 ![Customer sub1](https://github.com/user-attachments/assets/cea10b9a-9132-445b-8072-98303e6e15d4)
 ![customer sub2](https://github.com/user-attachments/assets/f42b3ef8-3802-40af-964d-6f44c9280f04)
-![Uploading sales1.PNG…]()
 
-  ![Uploading sales2.PNG…]()
+
+
 
 
 ## DATA Visualization
