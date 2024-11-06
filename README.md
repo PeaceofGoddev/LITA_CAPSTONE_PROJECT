@@ -10,6 +10,7 @@ This is the summary of my 12 weeks learning path in LITA.
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
 
 
 ## Project OVerview
